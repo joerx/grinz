@@ -30,6 +30,8 @@ jspm_packages
 # Optional npm cache directory
 .npm
 
+# Sublime
+*.sublime-*
 bundle.js
 
 # Optional REPL history
