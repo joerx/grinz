@@ -1,0 +1,20 @@
+{
+  "name": "grinz-imgproxy",
+  "version": "1.0.0",
+  "description": "Image ranking proxy for Grinz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server.js",
+    "dev-server": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "request": "^2.69.0",
+    "uniqid": "^1.0.0"
+  }
+}
