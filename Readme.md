@@ -8,7 +8,7 @@ Client-side app based on React & Webpack. Run dev server with:
 
 ```sh
 cd frontend/
-export run dev-server
+npm run dev-server
 ```
 
 ## Image Proxy
